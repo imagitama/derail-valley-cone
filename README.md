@@ -1,6 +1,10 @@
 # Derail Valley Cone
 
-A mod for the game [Derail Valley](https://store.steampowered.com/app/588030/Derail_Valley/) that adds a cone to the front or back of your train which forces other train cars to derail and push out the way.
+A mod for the game [Derail Valley](https://store.steampowered.com/app/588030/Derail_Valley/) that adds a cone to the front or back of your train which forces other train cars to derail and push out the way:
+
+![](./screenshot.png)
+
+Auto-fitted to any loco. Manually fitted to some trains (DE2 and DH4).
 
 ## Install
 
