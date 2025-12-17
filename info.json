@@ -1,0 +1,11 @@
+{
+	"Id": "DerailValleyCone",
+	"Version": "1.0.0",
+	"DisplayName": "Cone",
+	"Author": "Jared Williams",
+	"EntryMethod": "DerailValleyCone.Main.Load",
+	"ManagerVersion": "0.32.4",
+	"Repository": "https://raw.githubusercontent.com/imagitama/derail-valley-cone/main/repository.json",
+	"Requirements": ["DerailValleyModToolbar"],
+	"LoadAfter": ["DerailValleyModToolbar"]
+}
